@@ -1,6 +1,8 @@
 # E-commerce-Application
 Revolutionize online shopping with our E-commerce app: Spring Boot, Angular &amp; MySQL make it a breeze to browse, add to cart, and securely purchase products, all in a few clicks. Effortless, efficient, and enjoyable.
 
+![E-Commerce](https://user-images.githubusercontent.com/124284815/222389898-d27baffd-bf37-45d8-ad53-9251265217f4.jpg)
+
 # About the App 
 
 E-commerce marvel! Fueled by Spring Boot, Angular, and MySQL, this app redefines online shopping. Effortlessly explore, swiftly add to your cart, and confidently purchase products with just a few clicks. Join us in revolutionizing the way we shop online!
